@@ -1,2 +1,2 @@
 # 2048_game_automation
-I am making an application that runs the 2048 game and plays it automatically
+This is an application that runs the the 2048 application and runs it.

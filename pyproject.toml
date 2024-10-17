@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "2048-game"
+version = "0.1.0"
+description = "game automation package"
+authors = ["Kasra"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^2.1.2"
+pyautogui = "^0.9.54"
+opencv-python = "^4.10.0.84"
+matplotlib = "^3.9.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
